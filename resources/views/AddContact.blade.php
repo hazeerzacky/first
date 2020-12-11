@@ -5,7 +5,7 @@
     <title>Document</title>
 </head>
 <body>
-
+<p>dgfdsfgdsg</p>
 <form action="/send" method="post">
 @csrf <!--CSRF protection middleware can validate the request. For convenience, 
 you may use the @csrf Blade directive to generate the hidden token input field:-->
