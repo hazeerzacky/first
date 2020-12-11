@@ -5,7 +5,6 @@
     <title>Document</title>
 </head>
 <body>
-<p>Add contact here</p>
 
 <form action="/send" method="post">
 @csrf <!--CSRF protection middleware can validate the request. For convenience, 
